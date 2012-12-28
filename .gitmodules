@@ -4,3 +4,9 @@
 [submodule "bundle/NERDTree"]
 	path = bundle/NERDTree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/qiushibaike"]
+	path = bundle/qiushibaike
+	url = git://github.com/vim-scripts/qiushibaike.git
+[submodule "bundle/pydoc"]
+	path = bundle/pydoc
+	url = git://github.com/vim-scripts/qiushibaike.git
