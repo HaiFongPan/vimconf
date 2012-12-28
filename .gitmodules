@@ -9,4 +9,4 @@
 	url = git://github.com/vim-scripts/qiushibaike.git
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
-	url = git://github.com/vim-scripts/qiushibaike.git
+	url = git://github.com/fs111/pydoc.vim.git
