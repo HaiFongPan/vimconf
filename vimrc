@@ -21,7 +21,6 @@ filetype plugin indent on
 set ignorecase smartcase
 set t_Co=256
 autocmd FileType python setlocal foldmethod=indent
-set foldlevel=40
 let g:pyflakes_use_quickfix = 0
 let g:pydiction_location = '~/.vim/after/ftplugin/pydiction/complete-dict'
 let g:pydiction_menu_height = 20
