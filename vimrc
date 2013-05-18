@@ -35,9 +35,7 @@ autocmd Filetype java set completefunc=javacomplete#CompleteParamsInf
 let g:html_indent_inctags = "html,body,head,tbody"
 let g:html_indent_script1 = "inc"
 let g:html_indent_style1 = "inc"
-=======
 autocmd FileType python setlocal foldmethod=indent
->>>>>>> cef9b8f298167d1d790e9ceed093a5c2941e155b
 let g:pyflakes_use_quickfix = 0
 let g:pydiction_location = '~/.vim/after/ftplugin/pydiction/complete-dict'
 autocmd FileType java inoremap <buffer> . .<C-X><C-O><C-P>
