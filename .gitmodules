@@ -13,3 +13,18 @@
 [submodule "bundle/vipydoc"]
 	path = bundle/vipydoc
 	url = git://github.com/fs111/pydoc.vim.git
+[submodule "jellybeans.vim"]
+	path = jellybeans.vim
+	url = git@github.com:vim-scripts/jellybeans.vim.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "bundle/javaComplete"]
+	path = bundle/javaComplete
+	url = git@github.com:vim-scripts/javacomplete.git
+[submodule "colors/desert"]
+	path = colors/desert
+	url = git@github.com:fugalh/desert.vim.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
