@@ -1,7 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/etc/rc.d'
 let g:netrw_dirhist_2='/home/leo/workspaces/SodaoRelationImport/import/src/main/java/com/sodao/relation/contact/qq'
 let g:netrw_dirhist_3='/home/leo/Downloads/sogoudgtle'
 let g:netrw_dirhist_4='/home/leo/.vim/colors/jellybeans.vim'
 let g:netrw_dirhist_5='/home/leo/.vim'
+let g:netrw_dirhist_6='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/PNP0C0A:00/power_supply/BAT0/power'
