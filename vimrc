@@ -1,9 +1,12 @@
-set background=light
-colorscheme jellybeans
-"colorscheme desert
+syntax enable
+"set background=light
+"colorscheme jellybeans
+set t_Co=256
+set background=dark
+colorscheme solarized
 set number
 set mouse=a
-syntax on
+"syntax on
 
 "set cursorline
 set guifont=YaHei\ Consolas\ Hybrid
@@ -23,11 +26,11 @@ set term=screen-256color
 set hlsearch
 set nowrapscan
 set incsearch
+set foldmethod=manual
 
 call pathogen#runtime_append_all_bundles()
 filetype plugin indent on
 set ignorecase smartcase
-set t_Co=256
 setlocal omnifunc=javacomplete#Complete
 autocmd Filetype java set omnifunc=javacomplete#Complete 
 autocmd Filetype java set completefunc=javacomplete#CompleteParamsInf
